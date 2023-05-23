@@ -7,3 +7,5 @@
 ## 📖 JavaScript Refresher Course
 - ✍️ [Assignments](https://github.com/Soumya1219/100-GIB/tree/main/Assignments)
 
+## Happy Coding :) 😄
+
