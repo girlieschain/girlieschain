@@ -1,28 +1,29 @@
-# 🔗 Girlies Chain
+# Girlies Chain on Solana
 
 <div id="header" align="center">
   <img 
 </div>
 <br>
 
-## 🚀 Project Overview
+## Project Overview
 
-Girlies Chain is a bespoke, ultra-fast blockchain platform built **for and by** fearless bad bitches who demand seamless, lightning-quick dApp experiences. Our mission is to empower a global community of women with a secure, user-friendly, and stylish on-chain ecosystem.
+Girlies Chain is a bespoke, ultra-fast on-chain platform built on Solana for fearless users who demand seamless, lightning-quick dApp experiences. We leverage Solana’s high throughput and low fees to power a stylish, secure ecosystem.
 
 ### Key Features
-- **⚡ Instant Finality**  
-  Confirm transactions in under 2 seconds to keep your shopping sprees (and NFT drops!) friction-free.
-- **🌸 Feminine-First UX**  
-  A pastel-inspired dashboard, intuitive wallet flows, and playful badges that speak your style.
-- **💎 Community Governance**  
-  Stake $GIRL tokens to vote on new features, partnership drops, and charitable grants.
-- **🔒 Ironclad Security**  
-  Audited smart contracts, multi-sig treasury, and end-to-end encryption for all user data.
-- **🔗 EVM Compatibility**  
-  Plug in your favorite Web3 tools, DeFi protocols, and NFT marketplaces without rewriting your code.
+- Sub-second finality  
+  Thanks to Solana’s Proof of History consensus, transactions confirm in under one second—perfect for flash sales and NFT drops.
+- Feminine-first UX  
+  A pastel-inspired dashboard, intuitive wallet flows, and achievement badges designed with style in mind.
+- Decentralized governance  
+  Stake GIRL tokens in our Solana SPL governance program to vote on features, partnerships, and community grants.
+- Enterprise-grade security  
+  Audited Anchor smart contracts, multi-signature treasury accounts, and on-chain encryption for all user data.
+- Solana ecosystem compatibility  
+  Seamlessly integrate with Serum DEX, Metaplex NFT Marketplace, and popular Solana DeFi protocols.
 
-## 🛠️ Getting Started
+## Getting Started
 
-1. **Install the CLI**  
+1. Install Solana CLI and Anchor  
    ```bash
-   npm install -g girlies-chain-cli
+   sh -c "$(curl -sSfL https://release.solana.com/v1.16.9/install)"
+   npm install -g @project-serum/anchor-cli
